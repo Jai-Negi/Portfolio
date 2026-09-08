@@ -17,7 +17,7 @@ export const experience: ExperienceEntry[] = [
   },
   {
     role: 'Project Consultant - Teamwork Internship Program',
-    company: 'Monash University & University of Warwick',
+    company: 'Monash University',
     dates: 'Jun 2026 – Jul 2026',
     bullets: [
       'Collaborated with an international team to conduct market research and competitive analysis for LangOptima.',
